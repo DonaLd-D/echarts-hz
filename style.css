@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#hz{
+  text-align: center;
+  color: grey;
+}
+#main{
+  width:800px;
+  height:580px;
+  border: 5px solid rgb(248, 239, 196);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  border-radius: 5px;
+}
